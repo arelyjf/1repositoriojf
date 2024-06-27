@@ -1,1 +1,3 @@
 primer archivo para repositorio
+archivo
+status
